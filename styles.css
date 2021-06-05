@@ -1,0 +1,74 @@
+img{
+    width: 350px;
+    height: 250px;
+}
+
+
+
+
+
+
+
+
+.cap2{
+    display: inline-block;
+    margin: 2px;
+}
+.cap1 {
+    display: inline-block;
+    padding: 5px;
+    margin: 2px;
+   
+}
+.cod1{
+   display: inline-block;
+    padding: 5px;
+    margin: 2px;
+   
+}
+.cod2{
+    display: inline-block;
+ 
+    margin: 2px;
+   
+}
+.reg1{
+    display: inline-block;
+    padding: 5px;
+    margin: 2px;
+   
+}
+.reg2{
+    display: inline-block;
+ 
+    margin: 2px;
+   
+}
+
+.lat1{
+    display: inline-block;
+    padding: 5px;
+    margin: 2px;
+   
+}
+.lat2{
+    display: inline-block;
+ 
+    margin: 10px;
+    
+   
+}
+body {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+  justify-content: center;
+row-gap: 15px;
+column-gap: 40px;
+  
+  
+}
+.card{
+    width: 300px;
+   
+}
+
